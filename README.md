@@ -1,6 +1,6 @@
 # LikeLion-project
 <h3 align="center">ToDo List-map</h3>
-1. _Clone code <br>
+1. _Clone code_ <br>
 2. Make something by myself<br>
 3. Add various functions
 <h3 align="left">Connect with me:</h3>
