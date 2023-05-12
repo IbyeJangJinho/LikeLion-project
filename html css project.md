@@ -24,7 +24,7 @@ a href="#"
 2. a 태그로 링크를 걸었을 때, 글씨에 밑줄 없애는 법
         ![글씨에 밑줄](https://github.com/IbyeJangJinho/LikeLion-project/assets/130152977/d8f0132d-6cc3-45d5-af81-1c235b4b2609)
 
-3. a 태그로 링크를 걸었을 때, 글자의 색깔이 바뀌게 하는법
+3. a 태그로 링크를 걸었을 때, 마우스를 올리면 글자의 색깔이 바뀌게 하는법
         
 1)바뀌기 전 예시
         ![글씨 음영 바뀌기 전](https://github.com/IbyeJangJinho/LikeLion-project/assets/130152977/7eb0b779-87bd-42cd-92ae-52c4e0de359c)
