@@ -143,7 +143,7 @@ p.capitalize {
 <p><img src="https://velog.velcdn.com/images%2Fsanna422%2Fpost%2Fb4cad8d7-17f9-45c9-b5ea-f291d4405ba0%2Fimage.png" alt="css 텍스트 색상"></p>
 
 ```
-<p style="color:DodgerBlue;">Hello World...</p>
+<p style="color:DodgerBlue;">Lorem ipsum...</p>
 ```
 
 ## css 테두리 색상
