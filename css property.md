@@ -1,4 +1,4 @@
-## css 텍스트
+## 1. css 텍스트
 
 CSS에는 텍스트 서식을 지정하는 많은 속성이 있다.
 
@@ -28,7 +28,7 @@ h3 {
 ```
 
 
-## css 링크
+## 2. css 링크
 
 CSS를 사용하면 다양한 방식으로 링크의 스타일을 지정할 수 있다.
 
@@ -63,7 +63,7 @@ a:active {
 ```
 
 
-## css 플로트
+## 3. css 플로트
 
 이 float속성은 콘텐츠의 위치를 지정하고 서식을 지정하는 데 사용된다.
 
@@ -130,7 +130,7 @@ p.capitalize {
 ```
 
 
-## css 배경색상
+## 4.css 배경색상
 
 <p><img src="https://velog.velcdn.com/images%2Fsanna422%2Fpost%2Fbb940cfa-6410-411a-aaa6-8d3b0a7be8c7%2Fimage.png" alt="css 배경 색상"></p>
 
@@ -138,7 +138,7 @@ p.capitalize {
 <h1 style="background-color:DodgerBlue;">Hello World</h1>
 ```
 
-## css 텍스트 색상
+## 5.css 텍스트 색상
 
 <p><img src="https://velog.velcdn.com/images%2Fsanna422%2Fpost%2Fb4cad8d7-17f9-45c9-b5ea-f291d4405ba0%2Fimage.png" alt="css 텍스트 색상"></p>
 
@@ -146,7 +146,7 @@ p.capitalize {
 <p style="color:DodgerBlue;">Lorem ipsum...</p>
 ```
 
-## css 테두리 색상
+## 6.css 테두리 색상
 
 <p><img src="https://velog.velcdn.com/images%2Fsanna422%2Fpost%2F2257da01-8f78-4490-8f95-3ed15e4d7eb5%2Fimage.png" alt="css 테두리 색상"></p>
 
@@ -154,7 +154,7 @@ p.capitalize {
 <h1 style="border:2px solid Violet;">Hello World..</h1>
 ```
 
-## css 색상 값
+## 7.css 색상 값
 
 CSS에서는 RGB 값, HEX 값, HSL 값, RGBA 값 , HSLA 값을 사용하여 색상을 지정할 수도 있다.
 
@@ -164,7 +164,7 @@ CSS에서는 RGB 값, HEX 값, HSL 값, RGBA 값 , HSLA 값을 사용하여 색�
 <h1 style="background-color:hsl(9, 100%, 64%,0.5);">hsl(9, 100%, 64%,0.5)</h1>
 ```
 
-## css 배경 
+## 8.css 배경 
 
 
 ```
@@ -186,7 +186,7 @@ body {
 
 
 
-## css 테두리
+## 9.css 테두리
 
 <li>dotted - 점선 테두리를 정의합니다.</li>
 <li>dashed -파선 테두리를 정의</li>
@@ -199,7 +199,7 @@ body {
 <li>none - 경계를 정의하지 않음</li>
 <li>hidden - 숨겨진 테두리를 정의합니다.</li>
 
-## css 여백, 패딩
+## 10.css 여백, 패딩
 
 ### css 여백
 
