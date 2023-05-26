@@ -127,4 +127,4 @@ body {
 
 # css 여백, 패딩
 
-<p><img src="C:\vscode work space\html css\picture sorce polder" alt="여백 패딩 사진"></p>
+<p><img src="https://velog.velcdn.com/images%2Fsanna422%2Fpost%2Fd3386140-c9de-448f-a15a-23b51f63473a%2Fimage.png" alt="여백 패딩 사진"></p>
